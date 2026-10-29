@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 数据集 / 模型权重
+data/
+*.pt
+*.pth
+*.ckpt
+
+# 系统与本地文件
+.DS_Store
+Thumbs.db
+*.lnk
+
+# 编辑器
+.idea/
+.vscode/
